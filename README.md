@@ -1,4 +1,4 @@
-<h3><a href="https://amzon-clone-97535.web.app/">See the Preview</a></h3>
+<h3><a href="https://amzon-clone-97535.web.app/" target="_blank">See the Preview</a></h3>
 
 
 # Getting Started with Create React App
