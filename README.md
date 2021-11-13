@@ -1,3 +1,6 @@
+<h3><a href="https://amzon-clone-97535.web.app/">See the Preview</a></h3>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
